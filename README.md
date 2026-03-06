@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true)
 
 ## 🌐 Connect With Me
 
