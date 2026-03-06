@@ -33,7 +33,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinathreddy-dev&layout=compact)
 
 ## 🌐 Connect With Me
 
