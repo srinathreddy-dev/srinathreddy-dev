@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true" />
 
 ## 🌐 Connect With Me
 
