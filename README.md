@@ -31,11 +31,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinathreddy-dev&layout=compact)
 
 ## 🌐 Connect With Me
 
