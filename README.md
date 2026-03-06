@@ -34,7 +34,6 @@
 ## 📊 GitHub Stats
 
 ![Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=default)
-
 ## 🌐 Connect With Me
 
 LinkedIn: https://linkedin.com/in/your-linkedin  
