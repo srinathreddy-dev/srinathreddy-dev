@@ -33,7 +33,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark" />
+
 ## 🌐 Connect With Me
 
 LinkedIn: https://linkedin.com/in/your-linkedin  
