@@ -30,3 +30,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=default)
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-linkedin  
+Portfolio: https://hirepath.ai
