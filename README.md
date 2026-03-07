@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathreddy-dev&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark"/>
 
 ## 🌐 Connect With Me
 
