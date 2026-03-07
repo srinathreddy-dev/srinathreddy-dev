@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srinathreddy-dev&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark&hide_border=true"/>
 
