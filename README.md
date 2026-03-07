@@ -36,7 +36,7 @@ Tech Stack:
 - Vercel
 
 🔗 Live: https://hirepath.ai  
-💻 Code: https://github.com/srinathreddy-dev/hirepath
+💻 Code: Portfolio: https://hirepath-amber.vercel.app
 
 ---
 
