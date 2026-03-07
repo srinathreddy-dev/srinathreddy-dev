@@ -1,5 +1,7 @@
 # Hi 👋 I'm Srinath Reddy Nalla
 
+![Profile Views](https://komarev.com/ghpvc/?username=srinathreddy-dev&color=blue)
+
 💻 Full-Stack .NET Developer  
 🚀 Building scalable web applications and AI-powered tools  
 📍 Hartford, CT  
@@ -19,6 +21,20 @@
 - Insurance Finder – Auto insurance comparison site
 - Inventory Management System – Full-stack enterprise application
 
+ ### 🔥 Featured Project
+
+**HirePath AI**  
+AI-powered resume tailoring and job matching platform.
+
+Tech Stack:
+- Next.js
+- TypeScript
+- OpenAI
+- Tailwind CSS
+- Vercel
+
+🔗 https://hirepath.ai
+
 ---
 
 ## 🛠 Tech Stack
@@ -34,6 +50,8 @@
 ## 📊 GitHub Activity
 
 <img src="https://streak-stats.demolab.com?user=srinathreddy-dev&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathreddy-dev&layout=compact&theme=github_dark"/>
 
 
 ## 🌐 Connect With Me
