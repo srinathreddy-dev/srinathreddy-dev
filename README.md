@@ -23,8 +23,9 @@
 
  ### 🔥 Featured Project
 
-**HirePath AI**  
-AI-powered resume tailoring and job matching platform.
+### 🚀 HirePath AI
+
+AI-powered resume tailoring and job matching platform that helps job seekers customize resumes based on job descriptions.
 
 Tech Stack:
 - Next.js
@@ -33,7 +34,8 @@ Tech Stack:
 - Tailwind CSS
 - Vercel
 
-🔗 https://hirepath.ai
+🔗 Live: https://hirepath.ai  
+💻 Code: https://github.com/srinathreddy-dev/hirepath
 
 ---
 
