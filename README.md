@@ -56,7 +56,7 @@ Tech Stack:
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/srinath-reddy-9b62841b9
+LinkedIn: https://linkedin.com/in/srinath-reddy-nalla-bb5079372
 
  
 Portfolio: https://hirepath.ai
