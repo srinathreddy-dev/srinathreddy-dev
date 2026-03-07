@@ -1,4 +1,5 @@
 # Hi 👋 I'm Srinath Reddy Nalla
+🚀 Building **AI-powered developer tools and scalable web apps**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srinathreddy-dev&color=blue)
 
